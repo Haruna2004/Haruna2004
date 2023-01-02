@@ -2,7 +2,12 @@
 #### Web development and Software Design
 I'm Faruk from Nigeria, and I do projects on Programming and Development. I enjoy learning languages and frameworks like React and React Native, as well as work in product design. I also enjoy writing code for a website, functional Web apps and software development in general. 
 
-Skills: REACT/REACT NATIVE/JS/HTML/TailwindCSS
+## Skills and Experience
+* ⚛ React
+* 📱React Native
+* 💻HTML, CSS, JS
+* 💨TailwindCSS
+
 
 - 👯 I’m looking to collaborate on Problem solving using my programming skills 
 - 📫 How to reach me: harunafaruk2004@gmail.com 
