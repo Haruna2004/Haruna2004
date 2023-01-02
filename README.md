@@ -19,5 +19,6 @@ I'm Faruk from Nigeria, and I do projects on Programming and Development. I enjo
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Haruna2004&show_icons=true&count_private=true)  
 
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Haruna2004)  
 
