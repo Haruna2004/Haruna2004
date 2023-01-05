@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Haruna Faruk
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Haruna Faruk
 ====================================================================================================================================
 
 Web Developer and Software Designer
@@ -11,9 +11,6 @@ I do projects on Web Development and Software Programming. I enjoy learning lang
 * 🤝  I'm open to collaborating on Creating a Web application for your projects
 * ⚡  I secretly own Bitcoin... but don't tell anybody
 
-<a href="https://www.twitter.com/faroukkHar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/faroukkHar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
