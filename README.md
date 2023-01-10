@@ -9,7 +9,7 @@ I do projects on Web Development and Software Programming. I enjoy learning lang
 * 🌍  I'm based in Nigeria
 * 🧠  I'm learning Full-Stack Development and Improving my Front-End Skills
 * 🤝  I'm open to collaborating on Creating a Web application for your projects
-* ⚡  I secretly own Bitcoin... but don't tell anybody
+* ⚡  I secretly created Bitcoin... but don't tell anybody
 
 
 ### Skills
