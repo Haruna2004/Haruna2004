@@ -1,7 +1,7 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Haruna Faruk
 ====================================================================================================================================
 
-Web Developer and Software Designer
+Web Developer and Mobile Developer
 -----------------------------------
 
 I do projects on Web Development and Software Programming. I enjoy learning languages and frameworks like React and React Native, as well as work in product design. I also enjoy writing code for a website, functional Web apps and software development in general.
