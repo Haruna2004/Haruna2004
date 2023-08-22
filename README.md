@@ -38,7 +38,7 @@ I do projects on Web Development and Software Programming. I enjoy learning lang
 
 <b>My GitHub Stats</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Haruna2004&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="http://www.github.com/Haruna2004"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Haruna2004&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
