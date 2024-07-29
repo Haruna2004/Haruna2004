@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haruna Faruk
 ====================================================================================================================================
 
-Software Engineer, Cloud Expert & Fullstack developer
+Software Engineer & Cloud InFrastruture Engineer
 -----------------------------------------------------
 
 I love to code and build cool stuff
 
 * 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [harunafaruk.dev@gmail.com](mailto:harunafaruk.dev@gmail.com)
-* 🚀  I'm currently working on [Hostcamp](http://hostcamp.com.ng)
-* 🧠  I'm learning how to build a Data center
-* 🤝  I'm open to collaborating on AI & Cloud Computing
+* ✉️  You can contact me at [faruk@hostcamp.com.ng](mailto:faruk@hostcamp.com.ng)
+* 🚀  I'm currently working on [Hostcamp(CEO)](http://hostcamp.com.ng)
+* 🧠  I'm learning how to build a Data center in Africa
+* 🤝  I'm open to collaborating on AI & Cloud Computing Tech
 
 <a href="https://www.github.com/haruna2004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/haruna2004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -30,7 +30,5 @@ src="https://img.shields.io/github/followers/haruna2004?logo=github&style=for-th
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/haruna2004"><img src="https://github-readme-stats.vercel.app/api?username=haruna2004&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="haruna2004's GitHub stats" /></a>
 
 <a href="http://www.github.com/haruna2004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haruna2004&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
