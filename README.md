@@ -8,7 +8,7 @@ I love to code and build cool stuff
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [faruk@hostcamp.com.ng](mailto:faruk@hostcamp.com.ng)
-* 🚀  I'm currently working on [Hostcamp(CEO)](http://hostcamp.com.ng)
+* 🚀  I'm currently working on [Quata](http://quata.cloud)
 * 🧠  I'm learning how to build a Data center in Africa
 * 🤝  I'm open to collaborating on AI & Cloud Computing Tech
 
