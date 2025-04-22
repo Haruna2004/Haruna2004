@@ -8,7 +8,7 @@ I love to code and build cool stuff
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [harunafaruk.dev@gmail.com](mailto:harunafaruk.dev@gmail.com)
-* 🚀  I am a cofounder and Technical Lead at [Quata](http://quata.cloud)
+* 🚀  I am a Cofounder and Technical Lead at [Quata](http://quata.cloud)
 * 🧠  I'm learning how to build a Data center in Africa
 * 🤝  I'm open to collaborating on AI & Cloud Computing Tech
 
