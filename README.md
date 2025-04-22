@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haruna Faruk
 ====================================================================================================================================
 
-Software Engineer & Cloud InFrastruture Engineer
+Software Engineer & Cloud Engineer
 -----------------------------------------------------
 
 I love to code and build cool stuff
 
 * 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [faruk@hostcamp.com.ng](mailto:faruk@hostcamp.com.ng)
-* 🚀  I'm currently working on [Quata](http://quata.cloud)
+* ✉️  You can contact me at [harunafaruk.dev@gmail.com](mailto:harunafaruk.dev@gmail.com)
+* 🚀  I am a cofounder and Technical Lead at [Quata](http://quata.cloud)
 * 🧠  I'm learning how to build a Data center in Africa
 * 🤝  I'm open to collaborating on AI & Cloud Computing Tech
 
