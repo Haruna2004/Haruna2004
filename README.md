@@ -1,16 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haruna Faruk
 ====================================================================================================================================
 
-Software Engineer & Cloud Engineer
+Founder, Software Engineer, Physicist
 -----------------------------------------------------
 
-I love to code and build cool stuff
+I love to code and build hardware
 
-* 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [harunafaruk.dev@gmail.com](mailto:harunafaruk.dev@gmail.com)
-* 🚀  I am a Cofounder and Technical Lead at [Pasoma](https://www.npmjs.com/package/pasoma)
-* 🧠  I'm learning how to build a Data center in Africa
-* 🤝  I'm open to collaborating on AI & Cloud Computing Tech
+* 🚀  I am a Cofounder and Lead Engr at [Pasoma](https://www.npmjs.com/package/pasoma)
+* 🧠  I'm attempting to automate the DevOps role with AI
+* 🤝  I'm open to collaborate on AI & Cloud Computing Tech
+* ✉️  You can reach me at [harunafaruk.dev@gmail.com](mailto:harunafaruk.dev@gmail.com)
 
 <a href="https://www.github.com/haruna2004" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/haruna2004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -27,8 +26,3 @@ src="https://img.shields.io/github/followers/haruna2004?logo=github&style=for-th
 
 <p align="left"> <a href="https://www.github.com/haruna2004" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/haruna-faruk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/farukkharuna" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/haruna2004"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haruna2004&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
