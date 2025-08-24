@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Founder, Software Engineer, Physicist
 -----------------------------------------------------
 
-I love to code and build hardware
+I love to code and build cool hardware
 
 * 🚀  I am a Cofounder and Lead Engr at [Pasoma](https://www.npmjs.com/package/pasoma)
 * 🧠  I'm attempting to automate the DevOps role with AI
