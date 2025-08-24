@@ -11,10 +11,8 @@ I love to code and build hardware
 * 🤝  I'm open to collaborate on AI & Cloud Computing Tech
 * ✉️  You can reach me at [harunafaruk.dev@gmail.com](mailto:harunafaruk.dev@gmail.com)
 
-<a href="https://www.github.com/haruna2004" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/haruna2004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Tech Stack
 
 
 <p align="left">
